@@ -14,27 +14,27 @@ const Services = () => {
                     <ul className="service_list">
                         <li>
                             <AiOutlineCheckCircle className = 'service_icon'/>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                            <p>Highly Inovative, Creative and Orignal</p>
                         </li>
                         <li>
                             <AiOutlineCheckCircle className = 'service_icon'/>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                            <p>Figma</p>
                         </li>
                         <li>
                             <AiOutlineCheckCircle className = 'service_icon'/>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                            <p>Abobe Xd</p>
                         </li>
                         <li>
                             <AiOutlineCheckCircle className = 'service_icon'/>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                            <p>Adobe Premiere</p>
                         </li>
                         <li>
                             <AiOutlineCheckCircle className = 'service_icon'/>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                            <p>Adobe Photoshop</p>
                         </li>
                         <li>
                             <AiOutlineCheckCircle className = 'service_icon'/>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                            <p>Adobe Illustrator</p>
                         </li>
                     </ul>
                 </article>
@@ -46,39 +46,48 @@ const Services = () => {
                     <ul className="service_list">
                         <li>
                             <AiOutlineCheckCircle className = 'service_icon'/>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                            <p>Typescript</p>
                         </li>
                         <li>
                             <AiOutlineCheckCircle className = 'service_icon'/>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                            <p>React JS</p>
                         </li>
                         <li>
                             <AiOutlineCheckCircle className = 'service_icon'/>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                            <p>Redux</p>
                         </li>
                         <li>
                             <AiOutlineCheckCircle className = 'service_icon'/>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                            <p>Next JS</p>
                         </li>
                         <li>
                             <AiOutlineCheckCircle className = 'service_icon'/>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                            <p>HTML</p>
                         </li>
                         <li>
                             <AiOutlineCheckCircle className = 'service_icon'/>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                            <p>Tailwind CSS</p>
                         </li>
                         <li>
                             <AiOutlineCheckCircle className = 'service_icon'/>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                            <p>SCSS</p>
+                        </li>
+                        
+                        <li>
+                            <AiOutlineCheckCircle className = 'service_icon'/>
+                            <p>Node JS</p>
                         </li>
                         <li>
                             <AiOutlineCheckCircle className = 'service_icon'/>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                            <p>Express JS</p>
                         </li>
                         <li>
                             <AiOutlineCheckCircle className = 'service_icon'/>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                            <p>Deno</p>
+                        </li>
+                        <li>
+                            <AiOutlineCheckCircle className = 'service_icon'/>
+                            <p>MongodB</p>
                         </li>
                     </ul>
                 </article>
@@ -90,27 +99,27 @@ const Services = () => {
                     <ul className="service_list">
                         <li>
                             <AiOutlineCheckCircle className = 'service_icon'/>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                            <p>Java</p>
                         </li>
                         <li>
                             <AiOutlineCheckCircle className = 'service_icon'/>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                            <p>Python</p>
                         </li>
                         <li>
                             <AiOutlineCheckCircle className = 'service_icon'/>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                            <p>C++</p>
                         </li>
                         <li>
                             <AiOutlineCheckCircle className = 'service_icon'/>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                            <p>C</p>
                         </li>
                         <li>
                             <AiOutlineCheckCircle className = 'service_icon'/>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                            <p>C#</p>
                         </li>
                         <li>
                             <AiOutlineCheckCircle className = 'service_icon'/>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                            <p>Functional Programming</p>
                         </li>
                     </ul>
                 </article>

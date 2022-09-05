@@ -1,7 +1,8 @@
 .portfolio_container{
     display: grid;
-    grid-template-columns: repeat(3,1fr);
+    grid-template-columns: repeat(5,1fr);
     gap: 2.5rem;
+    justify-content: center;
 }
 .portfolio_item{
     background: var(--color-bg-variant);
@@ -10,6 +11,7 @@
     border: 1px solid transparent;
     transition: var(--transition);
     margin-top: 3.5rem;
+
 }
 .portfolio_item:hover{
     border-color: var(--color-primary-variant);

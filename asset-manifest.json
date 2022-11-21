@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio.git/static/css/main.5e84db54.css",
+    "main.js": "/React-Portfolio.git/static/js/main.a44a2280.js",
+    "static/media/raghu.JPEG": "/React-Portfolio.git/static/media/raghu.33a8895374497030a3e9.JPEG",
+    "static/media/sarthak.JPEG": "/React-Portfolio.git/static/media/sarthak.45e6e7d527a3cf0d3d2e.JPEG",
+    "static/media/meAbout.jpg": "/React-Portfolio.git/static/media/meAbout.05aef5f85e591b0a3e78.jpg",
+    "static/media/rishubhai.png": "/React-Portfolio.git/static/media/rishubhai.59637283f86c07437d4f.png",
+    "static/media/me.png": "/React-Portfolio.git/static/media/me.8e6208a92ffb12ddeb6e.png",
+    "static/media/karan.JPEG": "/React-Portfolio.git/static/media/karan.cc04fd2ec9795c0fe8ca.JPEG",
+    "static/media/ashu.JPEG": "/React-Portfolio.git/static/media/ashu.181f13e5cd762bb8d4a3.JPEG",
+    "static/media/cv.pdf": "/React-Portfolio.git/static/media/cv.6ac82eef70be660861af.pdf",
+    "index.html": "/React-Portfolio.git/index.html",
+    "main.5e84db54.css.map": "/React-Portfolio.git/static/css/main.5e84db54.css.map",
+    "main.a44a2280.js.map": "/React-Portfolio.git/static/js/main.a44a2280.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e84db54.css",
+    "static/js/main.a44a2280.js"
+  ]
+}
